@@ -5,6 +5,8 @@ School Tracker
 
 아마 패치 전에 만들어 둔거라 작동여부는 잘 모르겠습니다.
 
+악용하지 
+
 HCSKR 모듈 참고했습니다.
 
 https://pypi.org/project/hcskr/
